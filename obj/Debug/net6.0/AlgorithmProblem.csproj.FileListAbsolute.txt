@@ -1,0 +1,15 @@
+C:\Users\prajw\source\repos\AlgorithmProblem\AlgorithmProblem\bin\Debug\net6.0\AlgorithmProblem.exe
+C:\Users\prajw\source\repos\AlgorithmProblem\AlgorithmProblem\bin\Debug\net6.0\AlgorithmProblem.deps.json
+C:\Users\prajw\source\repos\AlgorithmProblem\AlgorithmProblem\bin\Debug\net6.0\AlgorithmProblem.runtimeconfig.json
+C:\Users\prajw\source\repos\AlgorithmProblem\AlgorithmProblem\bin\Debug\net6.0\AlgorithmProblem.dll
+C:\Users\prajw\source\repos\AlgorithmProblem\AlgorithmProblem\bin\Debug\net6.0\AlgorithmProblem.pdb
+C:\Users\prajw\source\repos\AlgorithmProblem\AlgorithmProblem\obj\Debug\net6.0\AlgorithmProblem.csproj.AssemblyReference.cache
+C:\Users\prajw\source\repos\AlgorithmProblem\AlgorithmProblem\obj\Debug\net6.0\AlgorithmProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajw\source\repos\AlgorithmProblem\AlgorithmProblem\obj\Debug\net6.0\AlgorithmProblem.AssemblyInfoInputs.cache
+C:\Users\prajw\source\repos\AlgorithmProblem\AlgorithmProblem\obj\Debug\net6.0\AlgorithmProblem.AssemblyInfo.cs
+C:\Users\prajw\source\repos\AlgorithmProblem\AlgorithmProblem\obj\Debug\net6.0\AlgorithmProblem.csproj.CoreCompileInputs.cache
+C:\Users\prajw\source\repos\AlgorithmProblem\AlgorithmProblem\obj\Debug\net6.0\AlgorithmProblem.dll
+C:\Users\prajw\source\repos\AlgorithmProblem\AlgorithmProblem\obj\Debug\net6.0\refint\AlgorithmProblem.dll
+C:\Users\prajw\source\repos\AlgorithmProblem\AlgorithmProblem\obj\Debug\net6.0\AlgorithmProblem.pdb
+C:\Users\prajw\source\repos\AlgorithmProblem\AlgorithmProblem\obj\Debug\net6.0\AlgorithmProblem.genruntimeconfig.cache
+C:\Users\prajw\source\repos\AlgorithmProblem\AlgorithmProblem\obj\Debug\net6.0\ref\AlgorithmProblem.dll
